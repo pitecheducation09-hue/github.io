@@ -1,0 +1,7 @@
+VERSION="2.0"
+
+[[CURRENCIES]]
+code="MyTT1"
+issuer="ISSUER_PUBLIC_KEY"
+name="MYTOKEN"
+desc="MyTT1 is a Pi Testnet token."
